@@ -1,5 +1,4 @@
 # Template of React + TypeScript Client Codebases
-[![linter](https://github.com/viven-inc/react-typescript-template/actions/workflows/linter.yml/badge.svg)](https://github.com/viven-inc/react-typescript-template/actions/workflows/linter.yml)
 
 ## File Structure
 ``````
