@@ -1,7 +1,7 @@
 # Template of React + TypeScript + MUI Client Codebases
 
 ## File Structure
-`````````````````````
+```````````````````````````
 ------- public 
     |--- src 
         |--- assets
