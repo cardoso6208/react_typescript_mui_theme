@@ -1,4 +1,4 @@
-# Template of React + TypeScript Client Codebases
+# Template of React + TypeScript + MUI Client Codebases
 
 ## File Structure
 ``````
