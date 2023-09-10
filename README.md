@@ -1,7 +1,7 @@
 # Template of React + TypeScript Client Codebase
 
 ## File Structure
-```````````````````````
+```````````````
 ------- public 
     |--- src 
         |--- assets
